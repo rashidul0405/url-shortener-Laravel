@@ -1,0 +1,2 @@
+$name = "Rashidul";
+echo $name
